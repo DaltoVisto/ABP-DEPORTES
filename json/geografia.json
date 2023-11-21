@@ -1,0 +1,31 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿En qué país europeo se encuentra el estadio Santiago Bernabéu, el icónico hogar del Real Madrid?",
+        "opciones": ["Francia", "España", "Italia"],
+        "respuesta_correcta": "España"
+      },
+      {
+        "pregunta": "¿En qué continente se celebró la Copa del Mundo de Rugby 2019, en la que Sudáfrica se coronó campeona?",
+        "opciones": ["Asia", "Europa", "África"],
+        "respuesta_correcta": "África"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes países es famoso por su pasión por el cricket y es uno de los principales rivales de India en este deporte?",
+        "opciones": ["Argentina", "Australia", "Pakistán"],
+        "respuesta_correcta": "Pakistán"
+      },
+      {
+        "pregunta": "El Tour de Francia es una de las competencias de ciclismo más famosas del mundo. ¿En qué país se celebra principalmente?",
+        "opciones": ["Italia", "Francia", "España"],
+        "respuesta_correcta": "Francia"
+      },
+      {
+        "pregunta": "El hockey sobre hielo es un deporte muy popular en América del Norte. ¿En qué país es la NHL (Liga Nacional de Hockey) la liga profesional más destacada?",
+        "opciones": ["Canadá", "Estados Unidos", "Rusia"],
+        "respuesta_correcta": "Estados Unidos"
+      }
+    ]
+  }
+
+  

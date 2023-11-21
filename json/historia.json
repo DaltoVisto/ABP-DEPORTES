@@ -1,0 +1,30 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál fue el país anfitrión de la primera Copa del Mundo de la FIFA, celebrada en 1930?",
+        "opciones": ["Francia", "Brasil", "Uruguay"],
+        "respuesta_correcta": "Uruguay"
+      },
+      {
+        "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos de la era moderna, que marcaron el renacimiento del movimiento olímpico?",
+        "opciones": ["1896", "1920", "1968"],
+        "respuesta_correcta": "1896"
+      },
+      {
+        "pregunta": "¿Qué equipo de hockey sobre hielo de la NHL ganó un récord de 24 campeonatos de la Stanley Cup, la mayoría en la historia de la liga?",
+        "opciones": ["Los Angeles Kings", "Montreal Canadiens", "New York Rangers"],
+        "respuesta_correcta": "Montreal Canadiens"
+      },
+      {
+        "pregunta": "¿Quién fue el entrenador del 'Dream Team' de baloncesto de Estados Unidos en los Juegos Olímpicos de Barcelona 1992?",
+        "opciones": ["Phil Jackson", "Pat Riley", "Chuck Daly"],
+        "respuesta_correcta": "Chuck Daly"
+      },
+      {
+        "pregunta": "¿En qué año se celebraron los primeros Juegos Paralímpicos, que ofrecen competencias deportivas para atletas con discapacidades?",
+        "opciones": ["1960", "1980", "2000"],
+        "respuesta_correcta": "1960"
+      }
+    ]
+  }
+  

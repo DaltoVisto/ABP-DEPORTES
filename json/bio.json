@@ -1,0 +1,50 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál de las siguientes afirmaciones es cierta acerca de la relación entre la biología y el rendimiento deportivo?",
+        "opciones": [
+          "Los deportistas de élite no experimentan adaptaciones biológicas.",
+          "La genética influye en la predisposición a ciertas habilidades deportivas.",
+          "La biología no tiene impacto en la recuperación después del ejercicio."
+        ],
+        "respuesta_correcta": "La genética influye en la predisposición a ciertas habilidades deportivas."
+      },
+      {
+        "pregunta": "¿Qué componente biológico es esencial para la producción de energía durante la actividad física?",
+        "opciones": [
+          "Clorofila",
+          "Vitamina C",
+          "Oxígeno"
+        ],
+        "respuesta_correcta": "Oxígeno"
+      },
+      {
+        "pregunta": "Durante el ejercicio, ¿qué proceso biológico es responsable de eliminar el ácido láctico acumulado en los músculos?",
+        "opciones": [
+          "Fermentación alcohólica",
+          "Respiración celular",
+          "Fotosíntesis"
+        ],
+        "respuesta_correcta": "Respiración celular"
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes estructuras biológicas es fundamental en la percepción visual de un jugador de fútbol?",
+        "opciones": [
+          "Riñones",
+          "Oído interno",
+          "Ojo"
+        ],
+        "respuesta_correcta": "Ojo"
+      },
+      {
+        "pregunta": "La frecuencia cardíaca es un indicador biológico clave para evaluar el estado físico. ¿Cómo se mide típicamente en un deportista?",
+        "opciones": [
+          "A través del análisis de sangre",
+          "Usando un monitor de frecuencia cardíaca",
+          "Con un ecocardiograma"
+        ],
+        "respuesta_correcta": "Usando un monitor de frecuencia cardíaca"
+      }
+    ]
+  }
+  

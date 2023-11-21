@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál de los siguientes deportistas protagonizó la película 'Space Jam: A New Legacy' junto a los personajes de Warner Bros.?",
+        "opciones": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "LeBron James"
+        ],
+        "respuesta_correcta": "LeBron James"
+      },
+      {
+        "pregunta": "En la película 'Blades of Glory', dos personajes interpretados por Will Ferrell y Jon Heder se convierten en una pareja de patinadores artísticos. ¿Qué deporte representan?",
+        "opciones": [
+          "Golf",
+          "Patinaje artístico sobre hielo",
+          "Esquí alpino"
+        ],
+        "respuesta_correcta": "Patinaje artístico sobre hielo"
+      },
+      {
+        "pregunta": "¿Quién es la estrella del baloncesto que protagonizó el documental 'The Last Dance' que narra su carrera con los Chicago Bulls?",
+        "opciones": [
+          "Michael Jordan",
+          "Kobe Bryant",
+          "Shaquille O'Neal"
+        ],
+        "respuesta_correcta": "Michael Jordan"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes deportes es el tema principal de la película 'Moneyball,' que se centra en la gestión y estadísticas deportivas?",
+        "opciones": [
+          "Fútbol",
+          "Béisbol",
+          "Tenis"
+        ],
+        "respuesta_correcta": "Béisbol"
+      },
+      {
+        "pregunta": "¿Qué película de 1992 cuenta la historia de un grupo de jugadores de cricket de la India?",
+        "opciones": [
+          "Hoosiers",
+          "Chariots of Fire",
+          "Lagaan"
+        ],
+        "respuesta_correcta": "Lagaan"
+      }
+    ]
+  }

@@ -1,0 +1,30 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es el premio más prestigioso que se otorga en el fútbol a nivel individual?",
+        "opciones": ["La Bota de Oro", "El Balón de Oro", "El Guante de Oro"],
+        "respuesta_correcta": "El Balón de Oro"
+      },
+      {
+        "pregunta": "En el tenis, ¿cuál es el nombre del galardón que se otorga al campeón de un torneo de Grand Slam?",
+        "opciones": ["Copa Davis", "Trofeo Roland Garros", "Trofeo de Wimbledon"],
+        "respuesta_correcta": "Trofeo de Wimbledon"
+      },
+      {
+        "pregunta": "En los Juegos Olímpicos, ¿qué medalla se otorga al tercer lugar en una competencia deportiva?",
+        "opciones": ["Medalla de Plata", "Medalla de Bronce", "Medalla de Cobre"],
+        "respuesta_correcta": "Medalla de Bronce"
+      },
+      {
+        "pregunta": "¿Cuál es el premio que se otorga al jugador de la NBA que mejor demuestra habilidades defensivas?",
+        "opciones": ["MVP de la Temporada", "Premio Bill Russell al Jugador Defensivo del Año", "Jugador Más Mejorado"],
+        "respuesta_correcta": "Premio Bill Russell al Jugador Defensivo del Año"
+      },
+      {
+        "pregunta": "En el ciclismo, ¿qué premio se otorga al corredor que completa el Tour de Francia en el menor tiempo?",
+        "opciones": ["Maillot Verde", "Maillot Amarillo", "Maillot de Puntos Rojos"],
+        "respuesta_correcta": "Maillot Amarillo"
+      }
+    ]
+  }
+  

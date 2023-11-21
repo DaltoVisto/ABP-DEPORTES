@@ -1,0 +1,30 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Qué deportista argentino es conocido como 'El Pibe de Oro' y es una leyenda del fútbol?",
+        "opciones": ["Lionel Messi", "Diego Maradona", "Juan Román Riquelme"],
+        "respuesta_correcta": "Diego Maradona"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes tenistas es conocido como 'El Rey de la Cancha Rápida' y ha ganado múltiples títulos de Grand Slam en esa superficie?",
+        "opciones": ["Rafael Nadal", "Roger Federer", "Novak Djokovic"],
+        "respuesta_correcta": "Roger Federer"
+      },
+      {
+        "pregunta": "¿Qué deportista estadounidense es considerado uno de los más grandes nadadores de todos los tiempos y ha ganado numerosas medallas olímpicas?",
+        "opciones": ["Michael Jordan", "Usain Bolt", "Michael Phelps"],
+        "respuesta_correcta": "Michael Phelps"
+      },
+      {
+        "pregunta": "¿Quién es la estrella del baloncesto que es conocido como 'King James' y ha tenido una carrera sobresaliente en la NBA?",
+        "opciones": ["Stephen Curry", "Kevin Durant", "LeBron James"],
+        "respuesta_correcta": "LeBron James"
+      },
+      {
+        "pregunta": "¿Qué futbolista brasileño es ampliamente considerado como uno de los mejores jugadores de todos los tiempos y es conocido por su habilidad en el campo?",
+        "opciones": ["Ronaldo", "Pelé", "Neymar"],
+        "respuesta_correcta": "Pelé"
+      }
+    ]
+  }
+  

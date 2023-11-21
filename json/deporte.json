@@ -1,0 +1,30 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál de los siguientes deportes se juega en una cancha con una red y se puede jugar en modalidad de dobles?",
+        "opciones": ["Tenis", "Fútbol", "Balonmano"],
+        "respuesta_correcta": "Balonmano"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del deporte de invierno en el que los jugadores descienden una pista de nieve a gran velocidad en trineos pequeños?",
+        "opciones": ["Esquí alpino", "Luge", "Curling"],
+        "respuesta_correcta": "Luge"
+      },
+      {
+        "pregunta": "¿En qué deporte se utiliza una pelota que se lanza hacia un arco defendido por un portero, y el objetivo es marcar goles?",
+        "opciones": ["Hockey sobre hielo", "Fútbol","Cricket" ],
+        "respuesta_correcta": "Fútbol"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del deporte de equipo en el que los jugadores utilizan sus manos para golpear una pelota contra una pared frontal?",
+        "opciones": ["Squash", "Baloncesto", "Rugby"],
+        "respuesta_correcta": "Squash"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes deportes se juega en una cancha rectangular con un arco en cada extremo, y el objetivo es lanzar una pelota al arco contrario?",
+        "opciones": ["Tenis", "Balonmano", "Hockey sobre césped"],
+        "respuesta_correcta": "Hockey sobre césped"
+      }
+    ]
+  }
+  

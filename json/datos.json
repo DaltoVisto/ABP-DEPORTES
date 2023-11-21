@@ -1,0 +1,33 @@
+{
+"preguntas" : [
+        {
+            "pregunta" : "¿Cuál es el componente clave en la fabricaciòn de las pelotas de fùtbol modernas?",
+            "opciones": ["Cuero sintético", "Fibra de Carbono", "Caucho natural"],
+            "respuesta_correcta":  "Cuero sintético"
+        },
+
+        {
+            "pregunta" : "¿Qué tipo de energía se almacena en los músculos y se libera durante un sprint en atletismo?",
+            "opciones": ["Energía cinética", "Energía potencial", "Energía química"],
+            "respuesta_correcta":  "Energía química"
+        },
+
+        {
+            "pregunta" : "¿Cuál es el meccanismo principal detrás del efecto curvado en los tiros libres de fútbol?",
+            "opciones": ["Efecto Magnus", "Efecto Venturi", "Efecto Doppler"],
+            "respuesta_correcta":  "Efecto Magnus"
+        },
+
+        {
+            "pregunta" : "¿Qué tipo de fuerza se aplica para lanzar una pelota de béisbol más lejos?",
+            "opciones": ["Fuerza centrípeta", "Fuerza centrífuga", "Fuerza de rotación"],
+            "respuesta_correcta":  "Fuerza de rotación"
+        },
+
+        {
+            "pregunta" : "¿Qué fenómeno físico permite a los jugadores de hockey sobre hielo deslizarse sobre la superficie?",
+            "opciones": ["Fricción estática", "Fricción sintética", "Capilaridad"],
+            "respuesta_correcta":  "Fricción sintética"
+        }
+    ]
+}
